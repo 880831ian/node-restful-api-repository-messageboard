@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true
+    },
+    "timezone": "+08:00"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true
+    },
+    "timezone": "+08:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "dateStrings": true,
+      "typeCast": true
+    },
+    "timezone": "+08:00"
+  }
+}
